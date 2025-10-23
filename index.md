@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Digitally Sovereign GenAI Architecture
+title: Welcome
 nav_order: 1
 description: Technical documentation for the reusable, open-source GenAI solution developed under OS2.
 ---
@@ -17,9 +17,7 @@ description: Technical documentation for the reusable, open-source GenAI solutio
 
 <br>
 
-[🗺️ Architecture Overview](TBD){: .btn .btn-green }
-[🧩 Core Components](TBD){: .btn .btn-green }
-[ ⬇️Deployment Guide](TBD){: .btn .btn-green }
+[🗺️ Architectural Overview](TBD){: .btn .btn-green }   [🧩 Core Components](TBD){: .btn .btn-green }   [ ⬇️Deployment Guide](TBD){: .btn .btn-green }
 
 ---
 
