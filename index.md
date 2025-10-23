@@ -1,6 +1,6 @@
 ---
 layout: home
-title: OS2AI – Digitally Sovereign GenAI Architecture
+title: Digitally Sovereign GenAI Architecture
 nav_order: 1
 description: Technical documentation for the reusable, open-source GenAI solution developed under OS2.
 ---
